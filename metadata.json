@@ -1,0 +1,6 @@
+{
+  "name": "Almer Pac-Man",
+  "description": "Game retro arcade seru menampilkan Almer Pac-Man dengan animasi chomp yang lincah, labirin klasik, hantu jahil, efek suara arcade, dan papan peringkat!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

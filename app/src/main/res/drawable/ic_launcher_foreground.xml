@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Food Pellets -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M76,54a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M90,54a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+
+    <!-- Almer Pac-Man Body (Chomping Head) -->
+    <!-- Arc from upper mouth corner (48, 54) out to ~35 deg, full circle back to -35 deg -->
+    <path
+        android:fillColor="#FFCA28"
+        android:strokeColor="#FFB300"
+        android:strokeWidth="1.5"
+        android:pathData="M50,54 L72,42 A26,26 0 1 0 72,66 Z" />
+
+    <!-- Cute Rosy Cheek -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M44,61a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0" />
+
+    <!-- Almer's Big Sparkly Eye -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M51,43a4.5,5 0 1,0 9,0a4.5,5 0 1,0 -9,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55,41.5a1.8,1.8 0 1,0 3.6,0a1.8,1.8 0 1,0 -3.6,0" />
+
+    <!-- Almer's Distinct Dark Fringe / Bangs Haircut -->
+    <path
+        android:fillColor="#261C14"
+        android:pathData="M24,54 C24,39 36,28 50,28 C64,28 73,36 74,44 C69,42 66,45 63,41 C60,46 56,44 54,49 C51,43 47,46 44,48 C41,43 38,47 34,49 C30,52 27,53 24,54 Z" />
+
+    <!-- Subtle Hair Strands Highlight -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M38,32 C43,30 52,30 58,33 C53,32 46,32 40,34 Z" />
+</vector>

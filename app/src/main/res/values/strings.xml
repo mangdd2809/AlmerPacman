@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Almer Pac-Man</string>
+    <string name="play_game">Mulai Main</string>
+    <string name="high_scores">Skor Tertinggi</string>
+    <string name="how_to_play">Cara Bermain</string>
+    <string name="about_almer">Tentang Almer</string>
+    <string name="score">SKOR</string>
+    <string name="high_score">TERTINGGI</string>
+    <string name="lives">NYAWA</string>
+    <string name="level">LEVEL</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="ready">SIAP-SIAP!</string>
+    <string name="victory">LEVEL SELESAI!</string>
+    <string name="resume">Lanjutkan</string>
+    <string name="restart">Main Lagi</string>
+    <string name="quit">Menu Utama</string>
+</resources>
